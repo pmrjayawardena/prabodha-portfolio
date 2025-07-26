@@ -48,9 +48,9 @@ const SkillsToolsPage = () => {
       <CodeSnippet title="skills.ts" code={code.skillsTools} />
 
       <Pager
-        prevHref="/projects"
+        prevHref="/"
         nextHref="/experience"
-        prevTitle="Projects"
+        prevTitle="Introduction"
         nextTitle="Experience"
       />
     </>

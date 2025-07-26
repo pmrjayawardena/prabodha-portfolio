@@ -14,11 +14,11 @@ export const docsConfig = {
           href: "/",
           items: [],
         },
-        {
-          title: "Projects",
-          href: "/projects",
-          items: [],
-        },
+        // {
+        //   title: "Projects",
+        //   href: "/projects",
+        //   items: [],
+        // },
         {
           title: "Skills & Tools",
           href: "/skills-tools",

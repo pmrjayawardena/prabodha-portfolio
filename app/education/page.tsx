@@ -88,9 +88,9 @@ const EducationPage = () => {
 
       <Pager
         prevHref="/experience"
-        nextHref="/projects"
+        nextHref="/contact"
         prevTitle="Experience"
-        nextTitle="Projects"
+        nextTitle="Contact"
       />
     </>
   );

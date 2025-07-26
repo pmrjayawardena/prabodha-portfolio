@@ -87,6 +87,13 @@ const IntroductionPage = async () => {
         </div>
 
         <CodeSnippet title="skills.ts" code={code.skillsTools} />
+
+        <Pager
+          prevHref=""
+          nextHref="/skills-tools"
+          prevTitle=""
+          nextTitle="Skills & Tools"
+        />
       </div>
     </>
   );
