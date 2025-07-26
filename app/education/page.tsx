@@ -56,7 +56,7 @@ const EducationPage = () => {
       <PageHeader className="mb-10">
         <PageHeaderHeading>Education</PageHeaderHeading>
         <PageHeaderHeading className="mt-2 text-muted-foreground">
-          Learning never stops, but my wallet sure wishes it would!
+          "Learning never stops, but my wallet sure wishes it would!"
         </PageHeaderHeading>
         <PageHeaderDescription>
           My educational journey spans from foundational IT diplomas to advanced

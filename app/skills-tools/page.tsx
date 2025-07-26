@@ -16,7 +16,7 @@ const SkillsToolsPage = () => {
       <PageHeader>
         <PageHeaderHeading>Skills & Tools</PageHeaderHeading>
         <PageHeaderHeading className="mt-2 text-muted-foreground">
-          Learned by coding all night and debugging all day!
+          "Learned by coding all night and debugging all day!"
         </PageHeaderHeading>
         <PageHeaderDescription>
           As a full-stack Software Engineer, I specialize in building scalable

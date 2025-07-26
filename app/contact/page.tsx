@@ -11,7 +11,7 @@ const ContactPage = async () => {
       <PageHeader>
         <PageHeaderHeading>Contact</PageHeaderHeading>
         <PageHeaderHeading className="mt-2 text-muted-foreground">
-          Get in touch before I write another line of code!
+          "Get in touch before I write another line of code!"
         </PageHeaderHeading>
       </PageHeader>
 
